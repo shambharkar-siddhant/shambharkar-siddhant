@@ -19,4 +19,4 @@ Most of my work revolves around backend development, distributed workflows, and 
 - **Better engineering practices** — observability, testing strategies, CI/CD, and clean architecture.
 ---
 
-### ✍️ I aslo write tech blogs, check them out -> https://shambharkarsiddhant.medium.com/
+### ✍️ I share what I learn through blogs. You can explore them here. -> https://shambharkarsiddhant.medium.com/
