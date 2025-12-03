@@ -18,3 +18,5 @@ Most of my work revolves around backend development, distributed workflows, and 
 - **High-performance backend engineering** — concurrency, async patterns, and optimizing I/O-heavy work.
 - **Better engineering practices** — observability, testing strategies, CI/CD, and clean architecture.
 ---
+
+### ✍️ I aslo write tech blogs, check them out -> https://shambharkarsiddhant.medium.com/
