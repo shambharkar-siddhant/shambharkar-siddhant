@@ -5,7 +5,7 @@ Most of my work revolves around backend development, distributed workflows, and 
 
 ---
 
-## What I’m good at
+## Good at 💡
 - Writing clear, maintainable **system** for real-world problems.
 - Designing **workflow engines, queues, and automation pipelines** that can survive edge cases.
 - Working with **databases, caching, concurrency, and system-level behavior**.
@@ -13,7 +13,7 @@ Most of my work revolves around backend development, distributed workflows, and 
 
 ---
 
-## What I'm currently exploring
+## Currently exploring 🚀
 - Improving my understanding of **distributed systems & reliability patterns**.
 - **High-performance backend engineering** — concurrency, async patterns, and optimizing I/O-heavy work.
 - **Better engineering practices** — observability, testing strategies, CI/CD, and clean architecture.
