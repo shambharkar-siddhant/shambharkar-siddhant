@@ -1,23 +1,20 @@
-## 👋 Hey, I'm Siddhant
+## Hi, I'm Siddhant 👋
 
-I’m a backend engineer who loves breaking things, fixing them cleaner,  
-and designing systems that don’t panic at 3 AM.  
-Fun to work with, serious about architecture.
-
----
-
-## ⚡ What I’m Really Good At
-- Turning messy real-world problems into **clean, reliable backend systems**.
-- Building **distributed workflows** with concurrency, locks, retries, and idempotency baked in.
-- Writing **high-performance Python** that handles I/O, async, multiprocessing, and big workloads.
-- Making infra behave: **Linux, Redis, Nginx/OpenResty, Docker, PM2**, debugging with logs > guesses.
-- Thinking in **systems** — queues, state machines, backpressure, fault-tolerance, and scalability patterns.
+I’m a backend engineer who enjoys building reliable systems and solving the kind of problems that require both logic and patience.  
+Most of my work revolves around backend development, distributed workflows, and system-level tools.
 
 ---
 
-## 🎯 What I’m Currently Exploring
-- Designing tiny but powerful **system-level tools**: locks, caches, schedulers, metrics collectors.
-- Improving my **systems design depth**: consistency models, distributed coordination, reliability patterns.
-- Sharpening my **frontend (React/Next.js)** to build smoother dashboards & dev tools.
+## What I’m good at
+- Writing clear, maintainable **system** for real-world problems.
+- Designing **workflow engines, queues, and automation pipelines** that can survive edge cases.
+- Working with **databases, caching, concurrency, and system-level behavior**.
+- Thinking in **systems**: concurrency, locking, retries, scalability, and failure handling.
 
+---
+
+## What I'm currently exploring
+- Improving my understanding of **distributed systems & reliability patterns**.
+- **High-performance backend engineering** — concurrency, async patterns, and optimizing I/O-heavy work.
+- **Better engineering practices** — observability, testing strategies, CI/CD, and clean architecture.
 ---
