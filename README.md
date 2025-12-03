@@ -6,7 +6,7 @@ Fun to work with, serious about architecture.
 
 ---
 
-## ⚡ What I’m Really Good At (5 Points)
+## ⚡ What I’m Really Good At
 - Turning messy real-world problems into **clean, reliable backend systems**.
 - Building **distributed workflows** with concurrency, locks, retries, and idempotency baked in.
 - Writing **high-performance Python** that handles I/O, async, multiprocessing, and big workloads.
@@ -15,12 +15,9 @@ Fun to work with, serious about architecture.
 
 ---
 
-## 🎯 What I’m Currently Exploring (3 Points)
+## 🎯 What I’m Currently Exploring
 - Designing tiny but powerful **system-level tools**: locks, caches, schedulers, metrics collectors.
 - Improving my **systems design depth**: consistency models, distributed coordination, reliability patterns.
 - Sharpening my **frontend (React/Next.js)** to build smoother dashboards & dev tools.
 
 ---
-
-### 🌐 Let’s connect  
-**linkedin.com/in/siddhant-shambharkar**
