@@ -13,7 +13,7 @@ Most of my work revolves around backend development, distributed workflows, and 
 
 ---
 
-## 🚀 Currently exploring 
+## 🚀 Current Focus 
 - Improving my understanding of **distributed systems & reliability patterns**.
 - **High-performance backend engineering** — concurrency, async patterns, and optimizing I/O-heavy work.
 - **Better engineering practices** — observability, testing strategies, CI/CD, and clean architecture.
